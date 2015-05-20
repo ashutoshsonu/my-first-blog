@@ -1,0 +1,6 @@
+def hi(name):
+    print('Hi ' + name + '!')
+Girls = ['Rachel', 'Monica', 'Phoebe', 'Ola', 'You']
+for name in Girls:
+	hi(name)
+	print('Next girl')
